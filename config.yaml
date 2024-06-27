@@ -1,0 +1,12 @@
+github:
+  owner: 'alexsmithw'
+  repo: 'Fullstack-Chat-App-V2'
+  api_base: 'https://api.github.com'
+
+obsidian:
+  vault_root: 'C:/Users/Butle/Desktop/Preston/Obsidian/Quick-Bots Remote Vault'  # This should be the absolute path to your Obsidian vault root
+  scripts_path: '_assets/PythonScripts'
+  sync_path: 'Code/GitHub Repos/{repo}'  # {repo} will be replaced with the actual repo name
+
+whitelist:
+  filename: '{repo}_Whitelist.md'
